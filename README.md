@@ -11,7 +11,7 @@ This project is a up-to-date clone of jamesdphillips [heroku-buildpack-qpdf](htt
 Add the buildpack to your application.
 
 ```bash
-heroku buildpacks:add https://github.com/alenpaul2001/heroku-qpdf-buildpack -a `app-name`
+heroku buildpacks:add https://github.com/mediazard/heroku-qpdf-buildpack -a `app-name`
 ```
 
 You can verify installation by running the following.
